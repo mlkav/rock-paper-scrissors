@@ -3,11 +3,11 @@
 ## Professional Certificate - 7 course series
 
  1. ### [Introduction to Project Management](https://www.coursera.org/learn/introduction-to-project-management?specialization=ibm-project-manager)
-		Week 1
-		Week 2
-		Week 3
-		Week 4
-		Week 5
+	[Week 1](https://github.com/maulanakavaldo/Answer-IBM-Project-Manager-Professional-Certificate/tree/main/1%20Introduction%20to%20Project%20Management/Week%201)
+	[Week 2](https://github.com/maulanakavaldo/Answer-IBM-Project-Manager-Professional-Certificate/tree/main/1%20Introduction%20to%20Project%20Management/Week%202)
+	[Week 3](https://github.com/maulanakavaldo/Answer-IBM-Project-Manager-Professional-Certificate/tree/main/1%20Introduction%20to%20Project%20Management/Week%203)
+	[Week 4](https://github.com/maulanakavaldo/Answer-IBM-Project-Manager-Professional-Certificate/tree/main/1%20Introduction%20to%20Project%20Management/Week%204)
+	[Week 5](https://github.com/maulanakavaldo/Answer-IBM-Project-Manager-Professional-Certificate/tree/main/1%20Introduction%20to%20Project%20Management/Week%205)
 
  2. ### [Project Management Foundations, Initiation, and Planning](https://www.coursera.org/learn/project-management-foundations-initiation-and-planning?specialization=ibm-project-manager)
 		Week 2

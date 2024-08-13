@@ -20,6 +20,10 @@ This project encompasses the following key steps:
 
 5. Evaluation and Refinement: Evaluate the model’s accuracy and fine-tune the parameters as needed to improve prediction performance.
 
+## Result Model Sequential
+- Accuracy: 92%
+- Val Accuracy: 93% 
+
 ## Conclusion:
 
 This project successfully demonstrates how TensorFlow can be utilized to develop a predictive model capable of recognizing and predicting images from the Rock-Paper-Scissors game. The approach taken here can be extended to various other image recognition tasks, including game development, interactive applications, or other object recognition systems. The success of this project underscores the importance of high-quality datasets and well-optimized models in achieving high prediction accuracy.
